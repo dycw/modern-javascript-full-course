@@ -1,3 +1,4 @@
-# `template`
+# Modern JavaScript Full Course (Fireship.io)
 
-Template for generic repositories
+- https://fireship.io/courses/js/
+- https://github.com/fireship-io/javascript-course
